@@ -11,7 +11,8 @@ About me
 
 ### Other places you can find me
 
-https://ivan-jb-mak.github.io/
+https://ivan-jb-mak.github.io/ 
+###
 https://www.linkedin.com/in/ivanjbmak/
 
 ###
