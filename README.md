@@ -1,6 +1,7 @@
 
 <!--
 **ivan-jb-mak/ivan-jb-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+[![HitCount](http://hits.dwyl.com/ivan-jb-mak/ivan-jb-mak.svg)](http://hits.dwyl.com/ivan-jb-mak/ivan-jb-mak)
 
 About me
 
