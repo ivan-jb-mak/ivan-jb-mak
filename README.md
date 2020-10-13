@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ivan-jb-mak/ivan-jb-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -13,6 +12,7 @@ About me
 ### Other places you can find me
 
 https://ivan-jb-mak.github.io/
+https://www.linkedin.com/in/ivanjbmak/
 
 ###
 
