@@ -5,9 +5,9 @@
 
 About me
 
-- 🌱 I am a recent Mechatronics Engineering Graduate and a robotics enthusiast
-- 🔭 I’m currently working on my a ROS based Autonomous Mobile Robot
-- 👯 I’m currently looking for Robotics Software Engineer positions
+- 🌱 I am a Mechatronics Engineering Graduate and a robotics enthusiast
+- 🔭 I’m currently working on a ROS based Autonomous Mobile Robot
+- 👯 I’m currently looking for Robotics Software Engineering positions
 - 📫 How to reach me: <a href="mailto:ivanjbmak@gmail.com"> Let's get in touch! </a>
 
 ### Other places you can find me
