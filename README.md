@@ -21,4 +21,5 @@
 <br />
 <br />
 
-![](https://raw.githubusercontent.com/ivan-jb-mak/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-jb-mak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
