@@ -6,8 +6,7 @@
 
 <br />
 <br />
-Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer and a Mechatronics postgraduate student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
+Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer and a Mechatronics postgraduate student from Ontario Tech University 🎓. My passion for software lies with thinking of useful and innovative ideas and making them come true with elegant interfaces. Over the past 6 months I have gone through and completed the open-source web development bootcamp called [The Odin Project](https://www.theodinproject.com)
 
 ### I am...
 * 🎓 Postgraduate Mechatronics Engineering student and self taught developer
