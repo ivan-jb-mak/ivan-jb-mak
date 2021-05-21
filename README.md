@@ -1,5 +1,13 @@
-<h2 align="center">Hi 👋, I'm Ivan</h2>
-<h3 align="center">A postgraduate Mechatronics Engineering student and self taught developer</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/ivanjbmak/">
+  <img align="left" alt="Ivan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
+Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer and a Mechatronics postgraduate student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
 
 ### I am...
 * 🎓 Postgraduate Mechatronics Engineering student and self taught developer
