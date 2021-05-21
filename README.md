@@ -4,7 +4,7 @@
 ### I am...
 * 🎓 Postgraduate Mechatronics Engineering student and self taught developer
 * 🔭 Currently working on full stack web applications using the MERN stack
-* 🌱 Currently discovering and learning new technologies to create cooler applications
+* 🌱 Currently discovering and learning new technologies to create innovative applications!
 * 😄 Pronouns: He/Him
 <br />
   
