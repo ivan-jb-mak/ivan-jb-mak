@@ -51,7 +51,6 @@ I have learned a lot from the curriculum and am now learning different technolog
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="80" height="80"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="80" height="80"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="chrome" width="80" height="80"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="80" height="80"/> 
   </div>
 <br />
