@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/ivanjbmak/">
   <img align="left" alt="Ivan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ivanjbmak/">
-  <img align="left" alt="Ivan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://ivanjbmak.dev/">
+  <img align="left" alt="Ivan's Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/website.svg" />
 </a>
 
 <br />
