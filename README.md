@@ -14,7 +14,7 @@ Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer :computer: a
 I have learned a lot from the curriculum and am now learning different technologies for other tech stacks for full stack applications.
 
 * 🎓 Postgraduate Mechatronics Engineering student and self taught developer
-* 🔭 Currently working on full stack web applications using the MERN stack
+* 🔭 Currently working on a twitter-clone using TypeScript, GraphQL, React, Apollo-Client, and PostgreSQL
 * 🌱 Currently discovering and learning new technologies to create innovative applications!
 * 😄 Pronouns: He/Him
 <br />
