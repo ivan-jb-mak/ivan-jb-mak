@@ -59,3 +59,4 @@ I have learned a lot from the curriculum and am now learning different technolog
   
 ### Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-jb-mak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
