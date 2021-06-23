@@ -10,7 +10,7 @@
 <br />
 <br />
 Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer :computer: and a Mechatronics postgraduate student from Ontario Tech University 🎓. My passion for software lies with thinking of useful and innovative ideas and making them come true with elegant interfaces. I have gone through and completed the web development bootcamp called App Academy. I currently am working on Full-Stack web applications and always learning new tech. I have learned a lot from the curriculum and am now learning different technologies for other tech stacks for full stack applications.
-
+<br />
 * 🎓 Postgraduate Mechatronics Engineering student and self taught developer
 * 🔭 Currently working on a twitter-clone using TypeScript, GraphQL, React, Apollo-Client, and PostgreSQL
 * 🌱 Currently discovering and learning new technologies to create innovative applications!
@@ -37,7 +37,6 @@ Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer :computer: a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="80" height="80"/> 
 </div>
 <br />
   
