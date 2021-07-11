@@ -13,9 +13,8 @@ Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer :computer: a
 
 
 * 🎓 Full Stack Developer and Mechatronics Engineering Graduate
-* 🔭 Currently working on a twitter-clone using TypeScript, GraphQL, React, Apollo-Client, and PostgreSQL
+* 🔭 Currently working on a 2021 twitter-clone using TypeScript, GraphQL, React, Apollo-Client, and PostgreSQL
 * 🌱 Currently discovering and learning new technologies to create innovative applications!
-* 😄 Pronouns: He/Him
 <br />
   
 ### 💻 Languages and Frameworks
