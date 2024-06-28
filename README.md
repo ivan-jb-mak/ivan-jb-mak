@@ -1,9 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-<br />
 Hi, I'm Ivan Mak, a passionate self-taught Full Stack web developer :computer: and a Mechatronics postgraduate student from Ontario Tech University 🎓. My passion for software lies in thinking of useful and innovative ideas and making them come true with elegant interfaces. I have completed the web development bootcamp called The Odin Project. I am currently working on Full-Stack web applications and am always learning new tech. I have learned a lot from the curriculum and am now learning different technologies for other tech stacks for full-stack applications.
-
 
 * 🎓 Full Stack Developer and Mechatronics Engineering Graduate
 * 🔭 Currently working on a 2021 Twitter clone using TypeScript, GraphQL, React, Apollo-Client, and PostgreSQL
