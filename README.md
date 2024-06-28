@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ivanjbmak/">
   <img align="left" alt="Ivan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://ivanjbmak.dev/">
+<a href="[https://ivanjbmak.dev/](https://ivanjbmak.netlify.app/#/)">
   <img align="left" alt="Ivan's Portfolio" width="22px" src="https://image.flaticon.com/icons/png/512/841/841364.png" />
 </a>
 
